@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newbiemahi" alt="newbiemahi" /></a> </p>
 
-- 🔭 I’m currently working on [Competative Programming](https://www.codechef.com/users/mahithorat249)
+- 🔭 I’m currently working on [Competitive programming](https://www.codechef.com/users/mahithorat249)
 
 - 🌱 I’m currently learning **DevOps**
 
